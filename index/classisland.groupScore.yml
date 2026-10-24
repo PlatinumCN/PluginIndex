@@ -1,0 +1,10 @@
+id: classisland.groupScore
+name: 小组积分
+description: 一个关于ClassIsland的插件，可以在上课时显示小组积分，老师再也不用靠一张纸记录了。
+entranceAssembly: "GroupScorePlugin.dll"
+url: https://github.com/PlatinumCN/ClassIsland-groupScore
+repoOwner: PlatinumCN
+repoName: ClassIsland-groupScore
+assetsRoot: main
+artifactName: groupScore.cipx
+tagPattern: "*"
